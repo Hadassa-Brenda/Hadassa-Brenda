@@ -1,4 +1,4 @@
-# 👩‍💻 Olá, eu sou a Hadassa Souza!
+# 👩‍💻 Olá, eu sou a Hadassa!
 
 🎓 Estudante de **Sistemas de Informação** na PUC Minas  
 💻 Experiência em **Desenvolvimento Full Stack**  
